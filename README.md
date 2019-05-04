@@ -22,3 +22,5 @@ first option shows the movements along with the danger-positions at which the ot
 the second option only shows the movements of the queens with no danger-spots.
 the third option shows the final positions of the queen directly with no movements.
 
+The output video file is also attached, if unable to preview one can download it.
+If anyone encounter a problem feel free to post the issue.

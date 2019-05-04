@@ -5,7 +5,9 @@ The entire project is made using an industry standard 3D GRAPHICS API called Ope
 Instructions to execute:
 
 -> This project has been made using CODEBLOCKS.
+
 -> It includes a well know Library called OPENGL.
+
 -> Set these up and you are ready to run the code.
 
 WHAT IT ACTUALLY DOES?

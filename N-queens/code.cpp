@@ -1,7 +1,10 @@
 #include<stdio.h>
+#include<GL/gl.h>
+#include<GL/glu.h>
 #include <GL/glut.h>
 #include<time.h>
 #include<stdlib.h>
+#include<windows.h>
 
 int i,j,queens,w,h,n,k=1,fb=1,choice,moc=0;
 int x[10];
